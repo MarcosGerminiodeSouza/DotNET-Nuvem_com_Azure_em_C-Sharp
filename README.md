@@ -1,4 +1,12 @@
-# DIO - Trilha .NET - Nuvem com Microsoft Azure
+# Sistema de Cadastro de Funcionários com Microsoft Azure em C#
+
+Construindo um Sistema de Cadastro de Funcionários e Hospedando na Nuvem com Microsoft Azure em C#
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
+
+## DIO - Trilha .NET - Nuvem com Microsoft Azure
 www.dio.me
 
 ## Desafio de projeto
